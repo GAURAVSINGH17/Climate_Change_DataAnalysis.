@@ -111,3 +111,16 @@ All plots generated are saved in the `plots/` folder:
 1. Clone the repository:
 ```bash
 git clone https://github.com/GAURAVSINGH17/climate-data-analysis.git
+
+
+2 .Install required libraries:
+
+pip install pandas numpy matplotlib seaborn
+
+
+3. Open the Jupyter Notebook and run all cells to reproduce the analysis.
+
+Author
+
+Gaurav Singh .
+
